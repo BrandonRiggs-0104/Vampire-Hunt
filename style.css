@@ -1,0 +1,68 @@
+.icons {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.m-1 {
+  width: 30%;
+}
+
+.theater {
+  font-size: 45px;
+}
+
+.concert-hall {
+  font-size: 45px;
+}
+
+.castle {
+  font-size: 45px;
+}
+
+.circus {
+  font-size: 45px;
+}
+
+.hospital {
+  font-size: 45px;
+}
+
+.apartments {
+  font-size: 45px;
+}
+
+.theme-park {
+  font-size: 45px;
+}
+
+.factory {
+  font-size: 45px;
+}
+
+.doctors {
+  font-size: 45px;
+}
+
+.stadium {
+  font-size: 45px;
+}
+
+.offices {
+  font-size: 45px;
+}
+
+.bank {
+  font-size: 45px;
+}
+
+.hotel {
+  font-size: 45px;
+}
+
+.house {
+  font-size: 45px;
+}
+
+.store {
+  font-size: 45px;
+}
